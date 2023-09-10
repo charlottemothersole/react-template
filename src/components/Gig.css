@@ -1,0 +1,6 @@
+.gig {
+    display: flex;
+    flex-direction: column;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
